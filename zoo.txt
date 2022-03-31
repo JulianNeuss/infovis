@@ -1,1 +1,20 @@
-a
+In 2010 alone we will generate 1,200 exabytes
+
+The goal of visualization is to aid our understanding of data by leveraging the human visual system’s highly tuned ability to see patterns, spot trends, and identify outliers.
+
+
+All visualizations share a common “DNA”—a set of mappings between data properties and visual attributes such as position, size, shape, and color
+
+Protovis, an open source language for Web-based data visualization
+
+Choropleth Maps. Data is often collected and aggregated by geographical areas such as states ---> se utiliza mucho en votaciones para presidente
+
+Cartesian node-link diagram of the Flare package hierarchy. --> Me parece super incomodo verlo
+ 
+Indented tree layout --> Utilizado mucho en programación
+
+Treemap layout --> Utilizado para medir participacion de cada criptomoneda en el total del mercado. Muy util. Muy buena visual.
+
+Matrix view --> Lo utilizo en las layers de Unity
+
+Las demas formas de representacion me parecen muy buenas. La primera vez que las veo. 
